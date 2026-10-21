@@ -1,0 +1,6 @@
+data/*.csv
+models/*.joblib
+predictions.csv
+__pycache__/
+.ipynb_checkpoints/
+venv/
